@@ -5,6 +5,7 @@
 * Goal
 * Dependencies
 * How to start
+* Result
 
 ## Project description
 In this project, I used the environment from [Unity-ML](https://github.com/Unity-Technologies/ml-agents). 
@@ -36,3 +37,7 @@ The agent must get an average score of +13 over 100 consecutive episodes.
    * [Windows 10](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Installation-Windows.md)
    * [Mac, Unix](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Installation.md)
 3. Execute each cells in this notebook. The average score per 100 episodes will be shown after agent training is completed. 
+
+## Result
+I implemented 3 fully connected layers, fc1: 64, fc2: 32, fc3: 16 and the environment was solved in 403 episodes
+
