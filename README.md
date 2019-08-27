@@ -40,4 +40,4 @@ The agent must get an average score of +13 over 100 consecutive episodes.
 
 ## Result
 I implemented 3 fully connected layers, fc1: 64, fc2: 32, fc3: 16 and the environment was solved in 403 episodes
-
+![64_32_16_403episodes](https://user-images.githubusercontent.com/39072490/63798932-3cc3f380-c8c8-11e9-9191-b7d076df507f.jpg)
