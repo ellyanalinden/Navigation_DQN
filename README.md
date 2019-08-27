@@ -4,6 +4,7 @@
 * Project description
 * Goal
 * Dependencies
+* How to start
 
 ## Project description
 In this project, I used the environment from [Unity-ML](https://github.com/Unity-Technologies/ml-agents). 
@@ -23,3 +24,15 @@ The agent has to learn how to best select actions. Four actions are available, c
 The agent must get an average score of +13 over 100 consecutive episodes.
 
 ## Dependencies
+* Python 3.6
+* Numpy ("pip install numpy"
+* [PyTorch](https://pytorch.org/)
+* [Unity-ML agents](https://github.com/Unity-Technologies/ml-agents)
+
+## How to start
+1. Clone this repo
+2. In this notebook, the environment is imported by running cell No.2. To run this project locally, one must build their own environment.
+   Below is the link to create local environment:
+   * [Windows 10](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Installation-Windows.md)
+   * [Mac, Unix](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Installation.md)
+3. Execute each cells in this notebook. The average score per 100 episodes will be shown after agent training is completed. 
