@@ -26,7 +26,7 @@ The agent must get an average score of +13 over 100 consecutive episodes.
 
 ## Dependencies
 * Python 3.6
-* Numpy ("pip install numpy"
+* Numpy ("pip install numpy")
 * [PyTorch](https://pytorch.org/)
 * [Unity-ML agents](https://github.com/Unity-Technologies/ml-agents)
 
